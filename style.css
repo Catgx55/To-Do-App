@@ -22,6 +22,11 @@ li {
     justify-content: space-between;
 }
 
+.container .pendientes {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
 .delete-btn {
     color: red;
     cursor: pointer;
